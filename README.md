@@ -18,4 +18,4 @@
 
 ~~不设定上限的话我的服务器说不定就要炸了⊂彡☆))∀`)~~
 
-输出纯文本示例：[http://ronccc.com:8080/?word=膜蛤&length=6000](http://ronccc.com:8080/?word=膜蛤&length=6000)
+输出纯文本示例：[http://ronccc.com:8080/?title=膜蛤&length=6000](http://ronccc.com:8080/?title=膜蛤&length=6000)
